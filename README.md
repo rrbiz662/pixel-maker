@@ -1,5 +1,7 @@
 # pixel-maker-project
-Source code for the Pixel Maker Project.
+This project provides a webpage that allows users to draw pixelated images via a grid.
+It uses jQuery to listen for user actions that trigger the building of the grid, the grid drawing, and the clearing of the grid. 
+Additionally, the user can select background colors to draw on the grid and pen colors to draw with.   
 
 ## Getting Started
 These instructions will get you a copy of the project on your local machine for development and/or testing purposes.
